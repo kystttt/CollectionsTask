@@ -10,4 +10,5 @@ public class User {
     private String username;
     private String email;
     private byte[] passwordHash;
+    //Я забыл, что нужно пул реквест кидать поэтому тут комментарий
 }
