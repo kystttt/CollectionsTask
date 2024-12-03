@@ -17,6 +17,7 @@ public class Ticket {
 
     public long getId() {
         return id;
+        //Я забыл, что нужно пул реквест кидать поэтому тут комментарий
     }
 }
 

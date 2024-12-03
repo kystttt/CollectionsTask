@@ -45,5 +45,6 @@ public class Task2
                 duplicates.add(user);
         }
         return duplicates;
-    }
+        //Я забыл, что нужно пул реквест кидать поэтому тут комментарий
+        }
 }
